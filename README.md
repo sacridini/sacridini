@@ -21,4 +21,5 @@ I'm also a researcher at the [International Institute for Sustainability](https:
 
 Feel free to contact/connect on [Twitter](https://twitter.com/elacerdageo), [Linkedin](https://www.linkedin.com/in/eduardo-lacerda-827819ba/) or [email](eduardolacerdageo@gmail.com)
 
-Personal website: https://sacridini.github.io/
+Personal website: https://sacridini.github.io/  
+[Researchgate](https://www.researchgate.net/profile/Eduardo_Lacerda6) profile
