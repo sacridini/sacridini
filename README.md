@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Eduardo from Rio de Janeiro, Brazil.  I'm a PhD candidate at Federal Fluminense University (UFF) where i research trajectory-based change detection algorithms applied to the Atlantic Forest context. 
-
-I'm also a researcher at the [International Institute for Sustainability](https://www.iis-rio.org/en/).
+I'm Eduardo from Rio de Janeiro, Brazil.  I'm a geospatial software engineer and researcher at the [International Institute for Sustainability](https://www.iis-rio.org/en/).
 
 Feel free to contact/connect on [Twitter](https://twitter.com/elacerdageo), [Linkedin](https://www.linkedin.com/in/eduardo-lacerda-827819ba/) or [email](eduardolacerdageo@gmail.com)
 
