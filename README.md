@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Eduardo from Rio de Janeiro, Brazil.  I'm a geospatial software engineer and coordinator of data science at the [International Institute for Sustainability](https://www.iis-rio.org/en/).
+I'm Eduardo from Rio de Janeiro, currently living in Berlin.  I'm a Postdoctural Scientist at the [Conservation Biogeography Lab](https://pages.cms.hu-berlin.de/biogeo/website/) at Humboldt-Universität zu Berlin. 
+
+Ex. Coordinator of Data Science at the [International Institute for Sustainability](https://www.iis-rio.org/en/).
 
 Feel free to contact/connect on [Twitter](https://twitter.com/elacerdageo), [Linkedin](https://www.linkedin.com/in/eduardo-lacerda-827819ba/) or [email](eduardolacerdageo@gmail.com)
 
