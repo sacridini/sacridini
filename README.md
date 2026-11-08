@@ -19,7 +19,7 @@ I'm Eduardo from Rio de Janeiro, currently living in Berlin.  I'm a Postdoctural
 
 Ex. Coordinator of Data Science at the [International Institute for Sustainability](https://www.iis-rio.org/en/).
 
-Feel free to contact/connect on [Twitter](https://twitter.com/elacerdageo), [Linkedin](https://www.linkedin.com/in/eduardo-lacerda-827819ba/) or [email](eduardolacerdageo@gmail.com)
+Feel free to contact/connect on [Linkedin](https://www.linkedin.com/in/eduardo-lacerda-827819ba/) or [email](eduardolacerdageo@gmail.com)
 
 Personal website: https://sacridini.github.io/  
 [Researchgate](https://www.researchgate.net/profile/Eduardo_Lacerda6) profile
